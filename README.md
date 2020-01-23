@@ -3,8 +3,7 @@ To determine which set of customers the marketing firm should contact to maximiz
 
 ## Problem Set
 The insurance company has provided a historical data set (training.csv). The company has also provided with a list of potential
-customers to whom to market (testingCandidate.csv). From this list of potential customers, a marketing firm need to determine yes/no whether you wish to
-market to them.
+customers to whom to market (testingCandidate.csv). From this list of potential customers, one needs to determine whether the customers should be targeted for marketing.
 
 ## Given Information
 The cost of marketing to a particular customer is $30. This cost is paid regardless of whether the customer responds to our marketing or
